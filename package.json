@@ -1,0 +1,25 @@
+{
+  "name": "constructor-hangman",
+  "version": "1.0.0",
+  "description": "inquirer",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^3.3.0",
+    "install": "^0.10.1",
+    "random-words": "0.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexitu3/Constructor-Hangman.git"
+  },
+  "author": "al",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexitu3/Constructor-Hangman/issues"
+  },
+  "homepage": "https://github.com/alexitu3/Constructor-Hangman#readme"
+}
